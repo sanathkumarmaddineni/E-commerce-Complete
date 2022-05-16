@@ -30,3 +30,11 @@
 - [MySQL](http://www.mysql.com/)
 
 ***
+# Installation
+***
+-Download file
+-extract  and copy the file in htdocs folder
+-open XAMPP
+-Create database
+-Run using localhost
+***
